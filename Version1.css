@@ -1,0 +1,92 @@
+body {
+    background-image: url("background3.png");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.column-container {
+    width: 960px;
+}
+
+header {
+    height: 200px;
+}
+
+.header-left {
+    float: left;
+    width: 90%;
+}
+
+.header-right {
+    float: left;
+    width: 10%;
+}
+
+h1 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight:700;
+    color:green;
+    text-indent: 1%;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    color: yellow;
+    font-style: bold;
+    text-indent: 10%;
+    margin-top: 0px;
+}
+
+.main-left {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50;
+    color: yellow;
+    font-style: bold;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.main-left a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: yellow;
+    font-style: bold;
+    text-indent: 20%;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.footer a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: yellow;
+    font-style: bold;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.main-left a:hover {
+    color: white;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+main {
+    width: 960px;
+    margin bottom: 20px;
+}
+
+footer {
+    color: yellow;
+    font-size: 30px;
+    font-style: underline;
+    text-align: center;
+}

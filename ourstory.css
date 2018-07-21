@@ -1,0 +1,38 @@
+.navbar {
+    background-color: darkgreen;
+    height: 115px;
+}
+
+h3 {
+    font-weight: bold;
+    padding-top: 15px;
+    text-align: center;
+    margin-left: 300px;
+    font-size: 25px;
+    margin-right: 25px;
+}
+
+span {
+    font-size: 75px;
+    margin-left: 200px;
+    color: yellow;
+    font-weight: 300;
+}
+
+.btn:hover {
+    background-color: green;
+    border: white;
+}
+
+.btn {
+    background: yellow;
+    color: green;
+    border: 1px solid green;
+    font-weight: 800;
+    width: 100px;
+    font-size: 25px;
+}
+
+.home {
+    margin-left: 300px;
+}
